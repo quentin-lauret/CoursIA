@@ -1,6 +1,6 @@
 # CoursIA Notebook Catalog
 
-Generated: 2026-07-16 06:02
+Generated: 2026-07-17 06:03
 Total notebooks: 821
 
 ## Status Summary
@@ -229,7 +229,7 @@ Total notebooks: 821
 | 57 | Search-3-Informed : Algorithmes de Recherche Infor | Python 3 | READY | PRODUCTION | 45min | po-2025 |
 | 58 | Search-4-LocalSearch (C#) : Recherche Locale et Mé | .NET (C#) | READY | BETA | 45min | po-2025 |
 | 59 | Search-4-LocalSearch : Recherche Locale et Metaheu | Python 3 | READY | PRODUCTION | 45min | po-2025 |
-| 60 | Search-5-GeneticAlgorithms-Csharp : Algorithmes Gé | .NET (C#) | READY | PRODUCTION | 30min | po-2025 |
+| 60 | Search-5-GeneticAlgorithms-Csharp : Algorithmes Gé | .NET (C#) | READY | PRODUCTION | 45min | po-2025 |
 | 61 | Search-5 : Algorithmes Genetiques | Python 3 | READY | PRODUCTION | 1h | po-2025 |
 | 62 | Search-6 — Recherche adversariale (jeux à somme nu | .NET (C#) | READY | BETA | 45min | po-2025 |
 | 63 | Search-6-AdversarialSearch : Recherche Adversarial | Python 3 | READY | PRODUCTION | 30min | po-2025 |
