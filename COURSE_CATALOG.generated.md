@@ -1,6 +1,6 @@
 # CoursIA Notebook Catalog
 
-Generated: 2026-11-09 12:04
+Generated: 2026-11-10 11:44
 Total notebooks: 821
 
 ## Status Summary
